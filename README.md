@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abishek</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
-- 👨‍💻 All of my projects are available at [abishek-jayan.github.io](abishek-jayan.github.io)
+- 👨‍💻 All of my projects are available at [abishek-jayan.github.io](https://abishek-jayan.github.io/)
 
 - 📫 How to reach me **abishekjayan98@gmail.com**
 
