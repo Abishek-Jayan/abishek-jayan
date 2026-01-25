@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abishek</h1>
-<h3 align="center">A passionate software engineer from India</h3>
+<h3 align="center">Masters Thesis in Computer Science @ Iowa State University | Python, React, C++ | 2nd Place in Google North America Solution Challenge 2025 | Looking for Full-Time Software Engineering Roles</h3>
 
 
 - 📫 How to reach me **abishekjayan98@gmail.com**
